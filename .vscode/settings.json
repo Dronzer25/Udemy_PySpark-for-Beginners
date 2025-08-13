@@ -1,0 +1,5 @@
+// conda env to run spark and all --> From setup -> Udemy -> Taming Big Data Course
+{
+    "python.defaultInterpreterPath": "C:\\Users\\91932\\anaconda3\\envs\\py310\\python.exe",
+    "jupyter.notebook.defaultKernel": "Python (py310)"
+}
